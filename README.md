@@ -7,7 +7,3 @@ I am a full-stack developer studying Computer Science and Business at Nanyang Te
 - ✍️ My personal (and mostly technical) [blog](https://yajatgulati.hashnode.dev)
 
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheldor07&theme=ocean-gradient)](https://git.io/streak-stats)
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=sheldor07)
----
